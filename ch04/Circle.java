@@ -4,7 +4,7 @@ class CircleApp {
 	private int radius; // 원의 반지름
 	private String name; // 원의 이름
 
-	public CircleApp(int radius, String name) {
+	public CircleApp(int radius, String name) { // 생성자
 		this.radius = radius;
 		this.name = name;
 	}
