@@ -1,7 +1,7 @@
 package ch05;
 
 abstract class Animal { // 추상 class
-	 abstract String getName();
+	abstract String getName(); // 오버라이딩 되기 때문에 코드 작성 불필요
 }
 
 class Mouse extends Animal {

@@ -30,7 +30,9 @@ public class EveryPerson {
 
 		사람 b3 = new 한국인();
 		System.out.println(b3.num);
+		
 
+		
 		// 박서준 b4 = new 한국인(); // 오류!
 
 	}

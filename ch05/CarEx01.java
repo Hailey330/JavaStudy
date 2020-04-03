@@ -8,7 +8,7 @@ class Car {
 
 class Sonata extends Car {
 	void run() {
-		super.run();
+		// super.run();
 		System.out.println("소나타만의 움직임");
 	}
 }
