@@ -24,5 +24,4 @@ public class CoffeeApp {
 
 		// consumer.주문("카페라떼", menu, barista);
 	}
-
 }
